@@ -471,7 +471,7 @@ li {
 
 .fag-preorder-area {
     position: relative;
-    background: url(../img/foto2.jpg) no-repeat fixed 0 0/cover;
+    background: url(../img/base.jpg) no-repeat fixed 0 0/cover;
     z-index: 1;
     padding: 100px 0;
     height: 540px;
@@ -524,7 +524,7 @@ li {
 
 .fag-footer {
     position: relative;
-    background: url(../img/footer_bg.jpg) no-repeat fixed center center/cover;
+    background: url(../img/base.jpg) no-repeat fixed center center/cover;
     z-index: 1
 }
 
